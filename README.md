@@ -1,2 +1,4 @@
 # MPAQ
-The code and data will be released soon!
+## Persona Generation
+Run this command to train the LoRA for Persona Generation:
+> bash persona_generation.sh
