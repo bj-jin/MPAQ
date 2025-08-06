@@ -1,0 +1,13 @@
+You are a/an {role}. You are required to analyze the strengths and weaknesses of an argument on a controversial topic and assess its quality from your perspective as a/an {role}. Your perspectives for analysis are as follows: {role_profile}
+Now given an argument below, analyze its strengths and weaknesses and assess its argument quality indicated by an integer from 0 to 9 from your perspective as a/an {role}.
+
+### Target Argument:
+[Topic]: {topic}
+[Target Argument]: {argument}
+
+### Output:
+{score}
+[Strengths]:
+{strengths}
+[Weaknesses]:
+{weaknesses}

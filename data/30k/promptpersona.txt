@@ -1,9 +1,9 @@
-Given an argument below, it is now necessary to analyze its strengths and weaknesses from different perspectives. Please provide 4 distinct professions suitable for evaluating its strengths and weaknesses from various viewpoints, along with their respective starting points described in one sentence.
-Ensure that the 4 professions are generalized and macro-level, with minimal overlap between them and the widest possible coverage.
+Given an argument below, it is now necessary to analyze its strengths and weaknesses from different perspectives. Please provide 4 distinct professions suitable for evaluating its strengths and weaknesses from various viewpoints, along with their respective perspectives described in some words or phrases.
+Ensure that the 4 professions have minimal overlap and provide the broadest possible coverage.
 
 ### Target Argument:
 [Topic]: {topic}
 [Target Argument]: {argument}
 
 ### Output:
-{role_list}
+{persona_list}
